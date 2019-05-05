@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<document>
+<result>success</result>
+<resultcode>000000</resultcode>
+<note></note>
+<event>
+	<title>test</title>
+	<link>https://www.brownpapertickets.com/event/4241707</link>
+	<description>short description</description>
+	<event_id>4241707</event_id>
+	<live>n</live>
+	<e_address1>venue name</e_address1>
+	<e_address2>addr1</e_address2>
+	<e_city>addr2</e_city>
+	<e_state></e_state>
+	<e_country>United Kingdom</e_country>
+	<e_zip>postcode3</e_zip>
+	<e_phone>1234567890</e_phone>
+	<e_web></e_web>
+	<e_description>long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description long description</e_description>
+	<c_name>bob</c_name>
+	<c_phone></c_phone>
+	<c_address1></c_address1>
+	<c_address2></c_address2>
+	<c_city></c_city>
+	<c_state></c_state>
+	<c_country></c_country>
+	<c_zip></c_zip>
+	<c_email>bob@builder.com</c_email>
+</event>
+
+</document>
